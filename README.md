@@ -10,7 +10,6 @@ This is a web project for Sidcup Family Golf, a multipurpose golf facility locat
 ## Features
 - Interactive landing page with video background.
 - Sections detailing the services offered.
-- Testimonials from satisfied customers.
 - Contact and location information.
 - Smooth scrolling and animations.
 
